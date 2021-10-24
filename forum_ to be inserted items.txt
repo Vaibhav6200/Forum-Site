@@ -1,0 +1,4 @@
+1. link embeding system
+2. admin page
+3. pagination
+4. edit and delete options in comments and threads
